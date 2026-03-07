@@ -1,0 +1,2 @@
+- Implementing structural recursion on Intervals for Quick Sort
+- Analyze how this pattern is used in attention mechanism. 
